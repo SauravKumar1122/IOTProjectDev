@@ -1,0 +1,9 @@
+{
+	"name": "IOTDEV",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a44f016-b8e8-4d91-a36d-01eaa4078fc9",
+		"tenantId": "ab52d4e5-9cc7-437a-bdda-f4239e145187"
+	}
+}
